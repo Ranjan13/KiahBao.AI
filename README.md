@@ -1,6 +1,6 @@
 # KiahBao.AI (🏡 仔包)
 
-**KiahBao.AI** is a culturally aligned, zero-hallucination public housing knowledge engine and decision-support system for Singapore's HDB landscape. The name translates to the ultimate tool that *"fully covers all your housing anxieties so you don't need to be scared!"* (Hokkien: *Kiah* = Scare, *Bao* = Guarantee/Cover).
+**KiahBao.AI** is a culturally aligned, public housing knowledge engine and decision-support system for Singapore's HDB landscape. The name translates to the ultimate tool that *"fully covers all your housing anxieties so you don't need to be scared!"* (Hokkien: *Kiah* = Scare, *Bao* = Guarantee/Cover).
 
 It features a 4-tier pipeline designed to demystify complex HDB housing regulations, CPF grant rules, and real-time transacted pricing without hallucinated figures.
 
@@ -10,9 +10,6 @@ It features a 4-tier pipeline designed to demystify complex HDB housing regulati
 
 * **📰 HDB Pulse News Feed & Scraper**: Built-in scraper that extracts live articles and policy updates from the Next.js `__NEXT_DATA__` block on official HDB sites, caching them dynamically and serving them via a beautiful glassmorphic sidebar widget.
 * **📍 @Location Live Price Bypass**: The dual router intercepts colloquial queries containing `@Location` (e.g., *What are the resale prices @Tampines?*), bypasses RAG and LLM generation entirely, and queries the official data.gov.sg API live for low-latency transaction metrics.
-* **🇸🇬 PR-Specific Math Validation**: Integrates Singapore permanent resident eligibility checks (including the statutory 3-year PR durational requirement, Pure SPR couple criteria, and parent location rules) with real-time feedback.
-* **🛡️ Zero-Hallucination Math Safeguard**: An independent, rules-based verification layer that intercepts LLM outputs, recalculates EHG/PHG/CPF grants based on strict statutory logic, and overrides incorrect figures with precise, verified formulas.
-* **✨ Premium Dark UI**: An ultra-premium, glassmorphic dark-mode dashboard built with Next.js and Tailwind CSS featuring interactive profile editors, live metrics, and real-time chat.
 
 ---
 
