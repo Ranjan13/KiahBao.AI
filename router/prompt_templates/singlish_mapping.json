@@ -1,0 +1,29 @@
+{
+  "mappings": [
+    {
+      "shorthand": "near parent block",
+      "formal_term": "Proximity Housing Grant (PHG)",
+      "context": "PHG allows single or married buyers to receive up to $30,000 in housing grants if living within 4km of their parents/children."
+    },
+    {
+      "shorthand": "get house first time",
+      "formal_term": "Enhanced CPF Housing Grant (EHG)",
+      "context": "EHG offers up to $120,000 for first-time buyer families subject to an income ceiling of $9,000."
+    },
+    {
+      "shorthand": "hack structural wall",
+      "formal_term": "HDB Renovation Guidelines (Demolition Works)",
+      "context": "Demolition of structural columns, reinforced concrete (RC) walls, or load-bearing components is strictly prohibited. Standard walls require HDB permit."
+    },
+    {
+      "shorthand": "resale market rate",
+      "formal_term": "HDB Resale Flat Transaction Data",
+      "context": "Refers to historical transaction price logs queried dynamically from data.gov.sg."
+    },
+    {
+      "shorthand": "how long must stay",
+      "formal_term": "Minimum Occupation Period (MOP)",
+      "context": "HDB owners must physically occupy their flat for 5 years (MOP) before they can sell or rent out the entire unit."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+--- CHUNK 1 ---
+CPF HOUSING USE RULES & ELIGIBILITY FOR HDB FLATS
+Singaporeans can use savings in their CPF Ordinary Account (CPF-OA) to purchase a Housing & Development Board (HDB) flat.
+
+1. Ordinary Account Usage Limits:
+- For BTO flats, buyers can use CPF-OA up to the purchase price or valuation, whichever is lower.
+- For resale flats, the maximum amount of CPF-OA that can be used is capped at the Valuation Limit (VL). The VL is the purchase price or the valuation of the flat at the time of purchase, whichever is lower.
+- The Withdraw Limit (WL) is 120% of the Valuation Limit. Once the WL is reached, no further CPF-OA savings can be withdrawn for the flat.
+
+2. Lease Cover Rule (Age + Remaining Lease):
+- To utilize the maximum eligible CPF-OA for housing, the remaining lease of the flat must cover the youngest buyer to at least the age of 95.
+- If the remaining lease does not cover the youngest buyer to age 95, the amount of CPF-OA that can be used will be pro-rated.
+- No CPF-OA can be used at all if the remaining lease of the flat is less than 20 years.
+
+--- CHUNK 2 ---
+CPF HOUSING GRANTS & FAMILY HOUSING SCHEME
+Eligible first-timer buyers can receive CPF housing grants to assist with their flat purchase.
+
+1. Enhanced CPF Housing Grant (EHG):
+- Eligible for both BTO and resale HDB flats.
+- Income ceiling: Household monthly income must not exceed $9,000 for families, or $4,500 for singles.
+- The youngest buyer must be employed continuously for at least 12 months before the flat application and still be employed.
+- Maximum EHG grant for families is $120,000, and $60,000 for singles. The grant amount is tiered based on household income.
+
+2. CPF Housing Grant (for Resale Flats only):
+- First-timer families buying a 2-room to 4-room resale flat can get up to $80,000.
+- First-timer families buying a 5-room or larger resale flat can get up to $50,000.
+- Citizenship requirement: At least one buyer must be a Singapore Citizen (SC). If one buyer is SC and the other is a Permanent Resident (PR), they qualify for the SC-PR family grant (capped at $40,000). Two PRs qualify for the PR-PR grant of $20,000.

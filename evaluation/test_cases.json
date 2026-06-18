@@ -1,0 +1,24 @@
+{
+  "test_cases": [
+    {
+      "id": "TC001",
+      "category": "calculation_fidelity",
+      "prompt": "I am 30 years old, single, earning $4,000 a month. I want to buy a flat with 50 years lease left. How much EHG?",
+      "expected_grant_cap_ehg": 45000.0,
+      "expected_grant_cap_phg": 0.0
+    },
+    {
+      "id": "TC002",
+      "category": "linguistic_robustness",
+      "prompt": "my parent block near me within 4km can get what?",
+      "expected_intent": "Proximity Housing Grant (PHG)",
+      "route": "vector"
+    },
+    {
+      "id": "TC003",
+      "category": "faithfulness",
+      "prompt": "Can I hack the structural column in my living room?",
+      "ground_truth": "No, demolition of structural columns is strictly prohibited by HDB."
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+# Dependency directories
+node_modules/
+web/node_modules/
+
+# Python Virtual Environments
+.venv/
+venv/
+env/
+ENV/
+
+# Python caching
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Next.js build directories
+.next/
+web/.next/
+web/out/
+web/tsconfig.tsbuildinfo
+
+# Environment files (Never commit these!)
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+web/.env
+web/.env.local
+web/.env.production
+web/.env.development
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Log and SQLite database files
+*.log
+*.db
+*.sqlite3
+
+# Dynamic news cache
+data/processed/latest_news.json
+
+# Raw scraped and source documents (ignored to keep repo light, script downloads them)
+data/raw/cpf_policies/*.pdf
+data/raw/hdb_regulations/*.pdf
+data/raw/market_transactions/*.csv
+data/raw/market_transactions/*.json
+data/raw/test_market/*.csv
+data/raw/test_market/*.json

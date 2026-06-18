@@ -1,0 +1,26 @@
+# Foundation LLM & Orchestration
+llama-index
+llama-index-llms-ollama
+pydantic
+
+# API Server
+fastapi
+uvicorn[standard]
+python-multipart
+python-dotenv
+
+# Database & Vectors
+psycopg2-binary
+pgvector
+sqlalchemy
+
+# Data Ingestion
+requests
+pandas
+PyPDF2
+tqdm
+
+# Evaluation & Testing
+ragas
+pytest
+httpx
